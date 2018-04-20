@@ -15,31 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dictionaries4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dictionaries4.py">
+      <file leaf-file-name="join2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/join2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="join.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/join.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="motorbike.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/motorbike.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,12 +48,13 @@
         <option value="$PROJECT_DIR$/dictionaries3.py" />
         <option value="$PROJECT_DIR$/dictionaries4.py" />
         <option value="$PROJECT_DIR$/join.py" />
+        <option value="$PROJECT_DIR$/join2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="770" />
-    <option name="y" value="289" />
+    <option name="x" value="883" />
+    <option name="y" value="251" />
     <option name="width" value="1400" />
     <option name="height" value="860" />
   </component>
@@ -124,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.join">
+  <component name="RunManager" selected="Python.join2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -165,24 +146,6 @@
       </option>
       <envs />
       <patterns />
-    </configuration>
-    <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Dictionaries" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="dictionaries2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,6 +219,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="join2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Dictionaries" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/join2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -297,19 +278,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.dictionaries" />
-      <item index="1" class="java.lang.String" itemvalue="Python.dictionaries2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.dictionaries3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.dictionaries4" />
-      <item index="4" class="java.lang.String" itemvalue="Python.join" />
+      <item index="0" class="java.lang.String" itemvalue="Python.dictionaries2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dictionaries3" />
+      <item index="2" class="java.lang.String" itemvalue="Python.dictionaries4" />
+      <item index="3" class="java.lang.String" itemvalue="Python.join" />
+      <item index="4" class="java.lang.String" itemvalue="Python.join2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.join" />
+        <item index="0" class="java.lang.String" itemvalue="Python.join2" />
         <item index="1" class="java.lang.String" itemvalue="Python.dictionaries4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.dictionaries3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.dictionaries2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.dictionaries" />
+        <item index="2" class="java.lang.String" itemvalue="Python.join" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dictionaries3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dictionaries2" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +311,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="770" y="289" width="1400" height="860" extended-state="0" />
+    <frame x="883" y="251" width="1400" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -400,14 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/motorbike.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dictionaries3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -429,18 +402,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaries4.py">
+    <entry file="file://$PROJECT_DIR$/join.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/join.py">
+    <entry file="file://$PROJECT_DIR$/dictionaries4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="462">
+          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motorbike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/join2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
