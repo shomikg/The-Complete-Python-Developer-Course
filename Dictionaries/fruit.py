@@ -12,5 +12,14 @@ veg = {"cabbage": "every child's favourite",
 
 print(veg)
 
-veg.update(fruit)
+# veg.update(fruit)
+# print(veg)
+#
+# print(fruit.update(veg))
+# print(fruit)
+
+nice_and_nasty = fruit.copy()
+nice_and_nasty.update(veg)
+print(nice_and_nasty)
 print(veg)
+print(fruit)
