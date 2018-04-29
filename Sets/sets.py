@@ -90,21 +90,23 @@ print(sorted(squares))
 # except KeyError:
 #     print("The item 8 is not a member of the set")
 
-even = set(range(0, 40, 2))
+# even = set(range(0, 40, 2))
+# print(even)
+# squares_tuple = (4, 6, 16)
+#
+# squares = set(squares_tuple)
+# print(squares)
+#
+# if squares.issubset(even):
+#     print("squares is a subset of even")
+#
+# if even.issuperset(squares):
+#     print("even is a superset of squares")
+
+even = frozenset(range(0, 100, 2))
+
 print(even)
-squares_tuple = (4, 6, 16)
-
-squares = set(squares_tuple)
-print(squares)
-
-if squares.issubset(even):
-    print("squares is a subset of even")
-
-if even.issuperset(squares):
-    print("even is a superset of squares")
-
-
-
+even.add(3)
 
 
 
